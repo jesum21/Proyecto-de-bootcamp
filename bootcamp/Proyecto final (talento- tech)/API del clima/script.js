@@ -1,4 +1,4 @@
-const apiKey = '39d155f0d30a44a0171fda8e2bce8510'; // Copiar la API enviada al correo y pegarla aquí
+const apiKey = ''; // Copiar la API enviada al correo y pegarla aquí
 const cityInput = document.getElementById('cityInput');
 const searchButton = document.getElementById('searchButton');
 const cityElement = document.getElementById('city');
